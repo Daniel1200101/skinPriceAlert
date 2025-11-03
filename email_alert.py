@@ -9,9 +9,9 @@ SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465          # 465=SSL, or use 587 with STARTTLS (then set SMTP_USE_SSL=False)
 SMTP_USE_SSL = True
 
-SENDER_EMAIL = "daniel21.berens@gmail.com"
-SENDER_APP_PASSWORD = "nkoq mlsh wjmd xvkw"  # Gmail App Password (16 chars, no spaces)
-RECIPIENTS = ["daniel21.berens@gmail.com"]
+SENDER_EMAIL = "add email"
+SENDER_APP_PASSWORD = "add app pass"  # Gmail App Password (16 chars, no spaces)
+RECIPIENTS = ["add email"]
 
 DEFAULT_SUBJECT = "CS2 Price Alert"
 
